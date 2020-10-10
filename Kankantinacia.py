@@ -1,0 +1,5 @@
+print("Kankantinacia")
+name = input("Введіть Ваше ім'я: ")
+age = input("Введіть Ваш вік: ")
+print("Привіт, мене звати " + name + "!")
+print("Мені: " + str(age) + " років")
