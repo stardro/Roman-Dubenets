@@ -1,3 +1,4 @@
+print('two_list')
 import random
 a=random.sample(range(30),10)
 print("список а:"+str(a))
